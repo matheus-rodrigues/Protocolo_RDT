@@ -1,2 +1,2 @@
 # Protocolo_RDT
-Implementação em C do Protocolo RDT
+Esse repositório contém a implementação em C do Protocolo RDT (Realiable Data Transfer) proposto por J. Kurose na literatura de redes de computadores. Trata-se de uma abordagem que tenta proporcionar a confiabilidade no UDP. Aqui você encontra os modelos propostos para o cliente e o servidor, tal como um relatório que revela os detalhes de implementação, metodologia empregada, testes, discussão e conclusão. O projeto foi confeccionado no 2° semestre de 2022 na disciplina de Redes de Computadores na Universidade Federal de São Paulo. (Unifesp)
